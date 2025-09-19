@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://paintshop-pro-editing.github.io/.giyhub/">
+  <a href="https://paintshop-pro-editing.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_PaintShop_Pro-blue?style=for-the-badge&logo=corel" alt="Get PaintShop Pro"/>
   </a>
 </p>
